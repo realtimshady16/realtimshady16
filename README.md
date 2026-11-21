@@ -1,7 +1,7 @@
 BSc Mathematics and Computer Science at the University of Cape Town. Cape Town, South Africa.
 
-Most of what is here is a working library rather than a portfolio: 43 of my 48 public repos are
-forks of things I read. The four below are mine, and they are the ones I would want read.
+This account is mostly a working library rather than a portfolio — forks of projects I read. The
+four below are mine, and they are the four I would want read.
 
 ## Projects
 
