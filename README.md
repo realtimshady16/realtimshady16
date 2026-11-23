@@ -45,6 +45,5 @@ and JavaScript.
 
 ## Reach
 
-- Email — timevertse16@gmail.com
 - Site — [hellotim.co.za](https://hellotim.co.za)
 - LinkedIn — [linkedin.com/in/tim-evertse](https://www.linkedin.com/in/tim-evertse/)
